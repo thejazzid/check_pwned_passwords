@@ -1,3 +1,7 @@
+# Author: thejazzid@gmail.com
+# Todo - make it callable module
+#
+
 import requests
 import hashlib
 
